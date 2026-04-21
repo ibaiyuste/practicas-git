@@ -9,3 +9,7 @@ Soy Ibai Yuste y en esta practica estoy trabajando los fundamentos de Git y GitH
 Objetivo de la practica:
 - Aprender flujo basico de trabajo con Git.
 
+
+Estado:
+- Repositorio configurado y listo para publicar.
+
